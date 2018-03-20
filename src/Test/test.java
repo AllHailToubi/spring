@@ -24,7 +24,6 @@ public class test {
     input.close();
 }
 
-//Greedy Algorithm??
 public static ArrayList<Bin> firstFit(double[] items) {
     ArrayList<Bin> list = new ArrayList<>();
 
