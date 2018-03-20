@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class test {
     public static void main(String[] args) {
         final java.util.Scanner input = new java.util.Scanner(System.in);
-//jhgjhgjgjh
+//9wad
     System.out.print("Enter the number of measures: ");
     double[] items = new double[input.nextInt()];
     System.out.print("Enter the measures: ");
